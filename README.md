@@ -12,8 +12,8 @@ As their first main project, the participants at our Fullstack Development Bootc
  Zhir [Portfolio](https://github.com/zhirtaha/Portfolio)\
  Shoxan [Portfolio](https://github.com/shoxosman/Portfolio.git)\
  Zhino [Portfolio](https://github.com/zhino97/portfoilo)\
- Shabang [Portfolio](https://github.com/shabang99/my-portfilio)
- Ahmad Sherzad [Portfolio](https://github.com/Ahmad-5750/Portfolio)
- Bnar [Portfolio](https://github.com/bnarhama/portfolio)
- Chra [Portfolio](https://github.com/chra-O/chra_othman)
- Chenar [Portfolio](https://github.com/chenar-farhad/myPortfolio)
+ Shabang [Portfolio](https://github.com/shabang99/my-portfilio)\
+ Ahmad Sherzad [Portfolio](https://github.com/Ahmad-5750/Portfolio)\
+ Bnar [Portfolio](https://github.com/bnarhama/portfolio)\
+ Chra [Portfolio](https://github.com/chra-O/chra_othman)\
+ Chenar [Portfolio](https://github.com/chenar-farhad/myPortfolio)\
