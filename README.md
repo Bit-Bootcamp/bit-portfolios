@@ -3,7 +3,7 @@
 As their first main project, the participants at our Fullstack Development Bootcamp 2021 worked on developing their own portfolio websites. You can find their portfolios listed below:
 
  Syar  [Portfolio](https://github.com/syar1122/portfolio)\
- Ranja  [Portfolio](https://github.com/RanjDev/Bit-BC) \
+ Ranja  [Portfolio](https://github.com/RanjDev/ranj-portfolio) \
  Cali [Portfolio](https://github.com/salimhamad/protfoiloSKALLA)\
  Ahmad Soran [Portfolio](https://github.com/ahmadsoran/port)\
  Sherlgir [Portfolio](https://github.com/Shelgir/landing-page)\
