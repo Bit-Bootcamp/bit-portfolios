@@ -17,3 +17,6 @@ As their first main project, the participants at our Fullstack Development Bootc
  Bnar [Portfolio](https://github.com/bnarhama/portfolio)\
  Chra [Portfolio](https://github.com/chra-O/chra_othman)\
  Chenar [Portfolio](https://github.com/chenar-farhad/myPortfolio)\
+ Deni Kadir [Portfolio](https://github.com/denikader/portfolio)\
+ Kamaran [Portfolio](https://github.com/kamaranahmad/project-html)\
+ Azhi [Portfolio](https://github.com/Azhi-Othman/portfolio)\
