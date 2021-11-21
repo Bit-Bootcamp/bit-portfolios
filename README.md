@@ -19,4 +19,4 @@ As their first main project, the participants at our Fullstack Development Bootc
  Chenar [Portfolio](https://github.com/chenar-farhad/myPortfolio)\
  Deni Kadir [Portfolio](https://github.com/denikader/portfolio)\
  Kamaran [Portfolio](https://github.com/kamaranahmad/project-html)\
- Azhi [Portfolio](https://github.com/Azhi-Othman/portfolio)\
+ Azhi [Portfolio](https://github.com/Azhi-Othman/portfolio)
